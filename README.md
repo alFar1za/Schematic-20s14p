@@ -13,3 +13,5 @@ instrument ke rangkaian "*Jangan sampai kebalik +- nya !*".
 Setelah di wire dan terhubung dengan benar pada rangkaian, langkah selanjutnya melakukan run simulation pada proteusnya.
 
 ![image](https://github.com/alFar1za/Schematic-20s14p/assets/171551786/1e352e0f-1b47-4467-83bc-9088eed2b4b2)
+
+Setelah project di run maka hasil voltase yang didapat dari rangkaian seri = 72V dan Ampere yang didapat ketika di seri = 70Ampere dan Ketika di paralel menjadi 140Ampere
